@@ -3,6 +3,7 @@
 - https://ctf101.org
 - https://ctf-wiki.mahaloz.re/
 - https://book.hacktricks.wiki/en/index.html
+- https://ir0nstone.gitbook.io/crypto
 
 ## Web
 - Burp - https://portswigger.net/burp/communitydownload
